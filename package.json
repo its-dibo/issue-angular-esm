@@ -1,6 +1,7 @@
 {
   "name": "issue-angular-esm",
   "version": "0.0.0",
+  "type": "module",
   "scripts": {
     "ng": "ng",
     "start": "npm run build:ssr && npm run serve:ssr",
